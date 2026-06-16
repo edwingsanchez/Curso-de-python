@@ -11,7 +11,7 @@ elif Ib=="hawoplay":
     print("wayomingNomberTu")
 else:
     #Else estas intrucciones se ejecutan cuando todas las de arriba resultan falsas pero no evaluan ninguna condicion.
-    print("AAAAAAII NID TO KNOW NOW.")
+    print("AAAAAAII NID TO NOW NAU.")
     
 
 
@@ -43,7 +43,7 @@ def SUMA (num6, num7):
     sum=num6+num7
     return sum
 
-    print(SUMA(5, 5))
+print(SUMA(5, 5))
 
 
 

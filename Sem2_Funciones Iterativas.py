@@ -63,3 +63,6 @@ elif Pregunta=="no":
         print("Ah ok")
     elif sgura== "No":
         print("Por")
+        
+        
+prgunta2=input("Quieres que te presente a otro amigo?")
