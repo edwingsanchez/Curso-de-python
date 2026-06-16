@@ -17,4 +17,3 @@ print(f"Cosine of 0 degrees: {math.cos(math.radians(0))}")
 # Logarithmic functions
 print(f"Natural log of 10: {math.log(10)}")
 print(f"Base 10 log of 100: {math.log10(100)}")
-
