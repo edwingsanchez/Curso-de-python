@@ -1,9 +1,11 @@
 import math 
 
+
 # 1. CONSTANTS
 math.pi
 #Euler's number
 math.e
+
 
 
 # 2. BASIC FUNCTIONS
@@ -20,12 +22,14 @@ math.ceil()
 math.floor()
 
 
+
 # 3. TTRIGONOMETRIC FUNCTIONS
 #Sine of ceratain degree
 math.sin(math.radians())
 
 #Cosine of certain degree
 math.cos(math.radians(0))
+
 
 
 # 4. LOGARITHMIC FUNCTIONS
