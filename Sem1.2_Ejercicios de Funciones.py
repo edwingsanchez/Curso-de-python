@@ -66,3 +66,5 @@ elif Pregunta=="no":
         
         
 prgunta2=input("Quieres que te presente a otro amigo?")
+
+
