@@ -18,38 +18,6 @@ else:
 
 
 
-#3. FUNCIONES
-#En los parametros de la funcion podemos poner variables y dentro de la funcion una operacion y
-#cuando llamemos a la funcion podemos darle el valor a las variables para que se ejecute la operacion de antes.
-
-#Ponemos cuantos variables son y adentro el tipo de operacion que queremos que se ejectute
-def media(num1, num2, num3):
-    resultado=num1+num2+num3
-    resultado=resultado/3
-    return resultado
-
-#Print porque hemos puesto return y le damos valor a las variables para que ejecute la operacion.
-print(media(34, 439, 43))
-
-
-#Ejercicios
-def Multiplicacion (num4, num5):
-    mul=num4*num5
-    return mul
-
-print(Multiplicacion(5, 5))
-
-    
-def SUMA (num6, num7):
-    sum=num6+num7
-    return sum
-
-print(SUMA(5, 5))
-
-
-
-
-
 
 #4. ESTRUCTURAS DE DATOS INTEGRADOS
 
@@ -173,14 +141,6 @@ print(claves)
 #podemos eliminar una key con el metodo pop
 Diccionario_1.pop(2)
 print(Diccionario_1)
-
-
-
-
-
-
-
-
 
 
 

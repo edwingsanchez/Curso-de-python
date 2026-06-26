@@ -1,5 +1,7 @@
 import math 
 
+#Trigonometria
+
 
 # 1. CONSTANTS
 math.pi
@@ -23,7 +25,7 @@ math.floor()
 
 
 
-# 3. TTRIGONOMETRIC FUNCTIONS
+# 3. TRIGONOMETRIC FUNCTIONS
 #Sine of ceratain degree
 math.sin(math.radians())
 
